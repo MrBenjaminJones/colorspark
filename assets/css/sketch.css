@@ -98,7 +98,7 @@ header #menu-container #menu-button {
   justify-content: center;
   align-items: center;
   padding: 0;
-  outline: none;
+  outline: 0;
   border: none;
   background-color: transparent;
   cursor: pointer;
@@ -132,7 +132,7 @@ header #menu-container #extras-menu #extras-menu-container {
   justify-content: space-between;
 }
 header #menu-container #extras-menu #extras-menu-container button {
-  outline: none;
+  outline: 0;
   border: none;
   background-color: transparent;
   cursor: pointer;
